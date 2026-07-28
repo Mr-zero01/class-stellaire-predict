@@ -61,7 +61,7 @@ pip install -r requirements.txt
 jupyter notebook classe-stelaire.ipynb
 
 # Lancer l'interface web
-[commande de lancement, ex: streamlit run exploi_model.py]
+[commande de lancement : streamlit run exploi_model.py]
 ```
 
 ## 📎 Source des données
