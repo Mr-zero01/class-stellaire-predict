@@ -1,9 +1,9 @@
 import pandas as pd
 import joblib
 
-onehot = joblib.load("fichs\onehot.joblib")
-colonne_hot = joblib.load("fichs\colonne_hot.joblib")
-model = joblib.load("fichs\model_final.joblib")
+onehot = joblib.load("fichs/onehot.joblib")
+colonne_hot = joblib.load("fichs/colonne_hot.joblib")
+model = joblib.load("fichs/model_final.joblib")
 
 
 def predict(dt):
